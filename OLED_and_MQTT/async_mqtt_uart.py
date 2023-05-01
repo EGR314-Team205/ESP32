@@ -19,8 +19,6 @@ TOPIC_SUB1 = 'EGR314/Team205/DATA'
 TOPIC_SUB2 = 'EGR314/Team205/THRESH'
 
 config.server = 'egr3x4.ddns.net' # can also be a hostname
-# config.ssid     = 'LEGO CHOUSE'
-# config.wifi_pw  = '123456789ch'
 config.ssid     = 'photon'
 config.wifi_pw  = 'particle'
 
